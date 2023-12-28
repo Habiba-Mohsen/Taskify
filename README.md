@@ -27,7 +27,7 @@ Welcome to the Task Manager web application! This application allows users to cr
 ![Login Page](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/log_in.png)
 
 ![Landing page](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/landing_page.png)
-![Create](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/landing_page.png)
+![Create](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/create.png)
 
 
 
