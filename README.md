@@ -26,11 +26,10 @@ Welcome to the Task Manager web application! This application allows users to cr
 
 ![Login Page](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/log_in.png)
 
-*Caption: Login page for users to authenticate.*
+![Landing page](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/landing_page.png)
+![Create](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/landing_page.png)
 
-![Task List](screenshots/task_list.png)
 
-*Caption: User's task list with options to create, edit, and delete tasks.*
 
 
 
