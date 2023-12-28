@@ -24,7 +24,7 @@ Welcome to the Task Manager web application! This application allows users to cr
 
 ## Screenshots
 
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/Habiba-Mohsen/TaskifyWebApp/blob/main/log_in.png)
 
 *Caption: Login page for users to authenticate.*
 
